@@ -1,6 +1,6 @@
 # CCUP：: A Controllable Synthetic Data Generation Pipeline for Pre-training Cloth-Changing Person Re-Identification Models
 
-The paper is available on Arxiv(https://arxiv.org/abs/2410.13567)
+The paper is available on [Arxiv](https://arxiv.org/abs/2410.13567)
 
 ## Introduction
 
