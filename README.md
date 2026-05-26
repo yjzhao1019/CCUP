@@ -16,5 +16,21 @@ This dataset may be used for scientific research only and **not for commercial p
 
 Our dataset is available at : [Baidu Netdisk](https://pan.baidu.com/s/1kSY7BBsEy52CPXEml5tiqg)(the code is: ak4v).
 
+## Citation
+
+If you find this work useful for your research, please cite our paper
+
+```bibtex
+@inproceedings{zhao2025ccup,
+  title={CCUP: A controllable synthetic data generation pipeline for pretraining cloth-changing person re-identification models},
+  author={Zhao, Yujian and Wu, Chengru and Xu, Yinong and Du, Xuanzheng and Li, Ruiyu and Niu, Guanglin},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
+}
+```
+
+
 
 
